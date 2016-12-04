@@ -5,4 +5,4 @@ when I walked my way through Allen Downey's [Think Complexity](http://greenteapr
 book.
 
 ## Contents
-- [**Graphs in Theory**](http://nbviewer.jupyter.org/github/XiaoTaoWang/Think-Complexity-Notes/blob/master/notebooks/Graph-basics.ipynb)
+- [**Graph Basics**](http://nbviewer.jupyter.org/github/XiaoTaoWang/Think-Complexity-Notes/blob/master/notebooks/Graph-basics.ipynb)
