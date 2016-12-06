@@ -5,5 +5,5 @@ when I walked my way through Allen Downey's [Think Complexity](http://greenteapr
 book.
 
 ## Contents
-- [**Graph Basics**](http://nbviewer.jupyter.org/github/XiaoTaoWang/Think-Complexity-Notes/blob/master/notebooks/Graph-basics.ipynb)
-- [**Comparisons with networkx's builtin generators**](http://nbviewer.jupyter.org/github/XiaoTaoWang/Think-Complexity-Notes/blob/master/notebooks/Comparisons-with-networkx-generators.ipynb)
+- [Graph Basics](http://nbviewer.jupyter.org/github/XiaoTaoWang/Think-Complexity-Notes/blob/master/notebooks/Graph-basics.ipynb)
+- [Comparisons with networkx's builtin generators](http://nbviewer.jupyter.org/github/XiaoTaoWang/Think-Complexity-Notes/blob/master/notebooks/Comparisons-with-networkx-generators.ipynb)
