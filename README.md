@@ -9,3 +9,4 @@ book.
 - [Comparisons with networkx's builtin generators](http://nbviewer.jupyter.org/github/XiaoTaoWang/Think-Complexity-Notes/blob/master/notebooks/Comparisons-with-networkx-generators.ipynb)
 - [Connectivity of ER Graphs](http://nbviewer.jupyter.org/github/XiaoTaoWang/Think-Complexity-Notes/blob/master/notebooks/ER-Graph-Connectivity.ipynb)
 - [Small World Graph](http://nbviewer.jupyter.org/github/XiaoTaoWang/Think-Complexity-Notes/blob/master/notebooks/Small-World-Graph.ipynb)
+- [Wattz-Strogatz Graph from Scratch](http://nbviewer.jupyter.org/github/XiaoTaoWang/Think-Complexity-Notes/blob/master/notebooks/Wattz-Strogatz-Graph-from-Scratch.ipynb)
