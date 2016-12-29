@@ -11,3 +11,4 @@ book.
 - [Small World Graph](http://nbviewer.jupyter.org/github/XiaoTaoWang/Think-Complexity-Notes/blob/master/notebooks/Small-World-Graph.ipynb)
 - [Watts-Strogatz Graph from Scratch](http://nbviewer.jupyter.org/github/XiaoTaoWang/Think-Complexity-Notes/blob/master/notebooks/Watts-Strogatz-Graph-from-Scratch.ipynb)
 - [Clustering Coefficient and Path Length](http://nbviewer.jupyter.org/github/XiaoTaoWang/Think-Complexity-Notes/blob/master/notebooks/Clustering-coefficient-and-path-length.ipynb)
+- [Dijkstra's Algorithm](http://nbviewer.jupyter.org/github/XiaoTaoWang/Think-Complexity-Notes/blob/master/notebooks/Dijkstra-Algorithm.ipynb)
