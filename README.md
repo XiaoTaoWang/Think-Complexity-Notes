@@ -12,3 +12,5 @@ book.
 - [Watts-Strogatz Graph from Scratch](http://nbviewer.jupyter.org/github/XiaoTaoWang/Think-Complexity-Notes/blob/master/notebooks/Watts-Strogatz-Graph-from-Scratch.ipynb)
 - [Clustering Coefficient and Path Length](http://nbviewer.jupyter.org/github/XiaoTaoWang/Think-Complexity-Notes/blob/master/notebooks/Clustering-coefficient-and-path-length.ipynb)
 - [Dijkstra's Algorithm](http://nbviewer.jupyter.org/github/XiaoTaoWang/Think-Complexity-Notes/blob/master/notebooks/Dijkstra-Algorithm.ipynb)
+- [Dijkstra's Algorithm Animation](http://nbviewer.jupyter.org/github/XiaoTaoWang/Think-Complexity-Notes/blob/master/notebooks/Dijkstra-Algorithm-Animation.ipynb)
+- [Dynamic Global Air Temperature](http://nbviewer.jupyter.org/github/XiaoTaoWang/Think-Complexity-Notes/blob/master/notebooks/geographical-animation.ipynb)
